@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+
+# 予備・作業中のもの（公開リポジトリに持ち込まない）
+*.bak
+*.bak_*

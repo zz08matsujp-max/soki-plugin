@@ -1,0 +1,19 @@
+{
+  "name": "soki-memory",
+  "version": "0.1.0",
+  "description": "Personal memory that lives outside the AI. SOKI remembers what you said, then brings it back on its own — due dates, loose ends, and old notes — in whichever AI you are using.",
+  "author": {
+    "name": "Mind Seed Research Institute",
+    "url": "https://pyol.net/"
+  },
+  "homepage": "https://mcp.kitemir.jp/",
+  "keywords": [
+    "memory",
+    "notes",
+    "markdown",
+    "obsidian",
+    "reminders",
+    "handover",
+    "personal-knowledge-management"
+  ]
+}

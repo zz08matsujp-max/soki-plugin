@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "soki": {
+      "type": "http",
+      "url": "https://mcp.kitemir.jp/mcp"
+    }
+  }
+}
