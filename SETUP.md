@@ -42,8 +42,7 @@ connection is remembered after that.
   you are in.
 
 - **It is connected but has nothing to recall yet** — SOKI only knows what has
-  been said to it. Try the `import-notes` skill in this plugin to seed it from
-  existing notes.
+  been said to it. It fills up as you talk; there is nothing to import.
 
 ## Important
 
