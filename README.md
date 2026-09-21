@@ -22,14 +22,19 @@ have to ask it to remember, and you never have to ask it to recall.
 
 ## Installing
 
-This repository is its own marketplace, so two lines are enough:
+**In Claude Code.** This repository is its own marketplace, so two lines are
+enough:
 
 ```
 /plugin marketplace add zz08matsujp-max/soki-plugin
 /plugin install soki-memory@soki
 ```
 
-Works in Claude Code and in Cowork.
+**In Cowork.** Not yet. Cowork installs from the account's plugin catalogue,
+which is fed by the Claude plugin directory, and the listing for this plugin is
+still under review. Until it is approved, use Claude Code — or connect the MCP
+server on its own (see below), which gives you the memory without the two
+skills.
 
 ## Setting up
 
@@ -97,14 +102,18 @@ Claude が知っている。しかも、ただ覚えているだけではあり�
 
 ### 入れ方
 
-このリポジトリ自体がマーケットプレイスなので、2行で入ります。
+**Claude Code の場合。** このリポジトリ自体がマーケットプレイスなので、2行で入ります。
 
 ```
 /plugin marketplace add zz08matsujp-max/soki-plugin
 /plugin install soki-memory@soki
 ```
 
-Claude Code でも Cowork でも同じです。
+**Cowork の場合。** まだ入れられません。Cowork はアカウントのプラグイン・カタログから
+入れる仕組みで、そこへは Claude のプラグイン・ディレクトリ経由で載ります。
+**このプラグインは現在そのディレクトリの審査中**です。承認されるまでは Claude Code を
+お使いください。あるいは MCP サーバーだけを繋ぐこともできます（下記）。その場合、
+記憶は使えますがスキル2本は付きません。
 
 ### 導入
 
