@@ -9,9 +9,6 @@ you said you would do is still open, it says *"come to think of it…"*. You nev
 have to ask it to remember, and you never have to ask it to recall.
 
 - Site: <https://mcp.kitemir.jp/>
-- Try it without an account: <https://mcp.kitemir.jp/demo> — drop in a folder of
-  Markdown notes and see what comes back. Nothing is uploaded; it runs in your
-  browser.
 - Free while in beta.
 
 ## What is in this plugin
@@ -63,8 +60,6 @@ Claude が知っている。しかも、ただ覚えているだけではあり�
 向こうから返しに来る記憶**です。
 
 - サイト: <https://mcp.kitemir.jp/>
-- 登録せずに試す: <https://mcp.kitemir.jp/demo>
-  （手元の .md フォルダを渡すだけ。アップロードはしません）
 
 ### このプラグインに入っているもの
 
