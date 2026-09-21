@@ -1,5 +1,6 @@
 {
   "name": "soki",
+  "description": "SOKI — personal memory that lives outside the AI. Due dates and loose ends come back on their own, in whichever AI you use.",
   "owner": {
     "name": "Mind Seed Research Institute",
     "url": "https://pyol.net/"
